@@ -1,3 +1,3 @@
 # NEW PROJECT
-This project was created from local repo
-Created by Adarsha chhatoi
+This project was created from local repo .
+Created by Adarsha chhatoi.
